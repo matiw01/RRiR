@@ -62,4 +62,4 @@ function solve_equatacion(n)
 
 end
 
-solve_equatacion(5)
+solve_equatacion(20)
