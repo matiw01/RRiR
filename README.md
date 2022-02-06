@@ -17,5 +17,6 @@ Pkg.add("Plots")
 Pkg.add("CalculusWithJulia")
 ```
 ## Postawiony problem
-Równanie które rozwiązuje program to równanie potencjału grawitacyjnego. 
+Równanie które rozwiązuje program to równanie potencjału grawitacyjnego.
 
+![](https://latex.codecogs.com/png.image?\dpi{110}%20\frac{d^{2}\phi}{dx^{2}}%20=%204\pi%20G\rho(x))
