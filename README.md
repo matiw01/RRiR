@@ -17,6 +17,5 @@ Pkg.add("Plots")
 Pkg.add("CalculusWithJulia")
 ```
 ## Postawiony problem
-Równanie które rozwiązuje program to równanie potencjału grawitacyjnego.
-
+Równanie które rozwiązuje program to równanie potencjału grawitacyjnego. Wyprowadzenie postaci słabej znajduje się w pliku pdf RRiR(1).pdf
 
